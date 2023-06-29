@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Webpage Design</title>
+    <link rel="stylesheet" href="main.css">
+</head>
+<body>
+    <div class="main" style="background-image:url('/image/10.jpg')">
+        <div class="navbar">
+            <div class="icon">
+                <h2 class="logo">MAIN PAGE</h2>
+            </div>
+            <div class="menu">
+                <ul>
+                    
+                    <li><a href="#">USAGE HISTORY</a></li>
+                    <li><a href="history.html">HISTORY</a></li>
+                    <li><a href="#">AVAILABLE FUNDS</a></li>
+                    <li><a href="#">FUNDS</a></li>
+                        <li><a href="checkout_form.php">PAYMENTS</a></li>
+                    <li><a href="index.php">HOME</a></li>
+                    
+                </ul>
+            </div>  
+            
+        </div>
+
+    </div>
+</body>
+</html>
